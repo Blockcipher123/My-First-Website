@@ -1,0 +1,71 @@
+
+.first {
+	text-align: center;
+	font-size: 35px;
+	color: red;
+	font-weight: bold;
+	margin-top: 10px;
+}
+/*	#background {
+	background: black;
+}*/
+
+.html{
+	text-align: left;
+	margin-top: 30px;
+	
+	margin-left: 40px;
+}
+
+
+.css{
+	text-align: left;
+	margin-top: 30px;
+	
+	margin-left: 40px;
+}
+
+.js{
+	text-align: left;
+	margin-top: 30px;
+	
+	margin-left: 40px;
+}
+
+
+.python{
+	text-align: right;
+	margin-top: 30px;
+	
+	margin-left: 40px;
+}
+.HTML{
+	text-align: center;
+	margin-top: -700px;
+
+}
+
+.htmlcss{
+	margin-top: -700px;
+	padding-right: 40px;
+}
+
+.csstext{
+	padding-top: 80px;
+}
+
+.jstext{
+	padding-top: 40px;
+}
+
+
+
+/*.container{
+	margin-top: 20px;
+	text-align: right;
+}*/
+
+
+
+
+

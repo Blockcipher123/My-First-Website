@@ -1,0 +1,91 @@
+
+
+
+
+html{
+	font-size: 62.5%;
+	/*font-size: 10px;*/
+
+
+}
+
+
+
+
+.main_heading {
+	text-align: center;
+	font-size: 3.5rem;
+	color: red;
+	font-weight: bold;
+	margin-top: 1rem;
+}
+/*	#background {
+	background: black;
+}*/
+
+.html{
+	text-align: left;
+	margin-top: 3rem;
+	
+	margin-left: 4rem;
+}
+
+
+.css{
+	text-align: left;
+	margin-top: 3rem;
+	
+	margin-left: 4rem;
+}
+
+.js{
+	text-align: left;
+	margin-top: 3rem;
+	
+	margin-left: 4rem;
+}
+
+
+.python{
+	text-align: right;
+	margin-top: 3rem;
+	
+	margin-left: 4rem;
+}
+.HTML{
+	text-align: center;
+	margin-top: -70rem;
+
+}
+
+.htmlcss{
+	margin-top: -70rem;
+	padding-right: 4rem;
+}
+
+.csstext{
+	padding-top: 8rem;
+}
+
+.jstext{
+	padding-top: 4rem;
+}
+
+
+
+/*.container{
+	margin-top: 20px;
+	text-align: right;
+}*/
+
+@media(max-weidth: 998px){
+	html{
+		font-size: 55%;
+	}
+}
+
+@media(max-weidth: 768px){
+	html{
+		font-size: 45%;
+	}
+}

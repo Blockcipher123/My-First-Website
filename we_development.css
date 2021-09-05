@@ -1,0 +1,77 @@
+.first {
+	text-align: center;
+	font-size: 35px;
+	color: red;
+	margin-top: 10px;
+}
+
+ 
+
+.css{
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+
+
+.html{
+	padding-right: 300px;
+	padding-top: 10px;
+	padding-left: 300px;
+}
+
+
+
+.js{
+	padding-right: 100px;
+	padding-top: 20px;	
+}
+
+
+
+.hr{
+	font-size: bold;
+}
+
+
+
+.php{
+	padding-right: 300px;
+	padding-top: 10px;
+	padding-left: 300px;
+}
+
+
+
+.wordpress{
+	padding-right: 100px;
+	padding-top: 20px;
+}
+
+
+
+.bootstrap{
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+
+
+.Django_{
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+
+
+.MySQL{
+	padding-right: 100px;
+	padding-top: 20px;
+}
+
+
+.Jquery{
+	padding-right: 300px;
+	padding-top: 10px;
+	padding-left: 300px;
+}
